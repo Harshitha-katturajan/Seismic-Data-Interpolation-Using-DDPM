@@ -30,6 +30,9 @@ This repository implements a **Denoising Diffusion Probabilistic Model (DDPM)** 
 * `images/`: Directory containing qualitative result plots.
 
 ---
+## 🏛 Institutional Credit
+This work was developed during my **Research Internship at C-DAC (Centre for Development of Advanced Computing)**, Chennai. The project explores the application of Deep Diffusion Models for advanced geophysical data processing.
+
 **Harshitha K.**
 *Final Year B.E. Computer Science and Engineering Student*
 *AIML Lead, GDG JEC Chapter*

@@ -1,3 +1,4 @@
 
-# PASTE YOUR ENTIRE MODEL CODE HERE AS TEXT
-# (Just the text of your imports, classes, and loops)
+import torch
+import torch.nn as nn
+# ... (Paste your imports, DDPM classes, and training loop here) ...

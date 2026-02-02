@@ -1,0 +1,7 @@
+
+__pycache__/
+*.csv
+*.npy
+*.npz
+*.segy
+.virtual_documents/

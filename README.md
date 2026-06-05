@@ -2,9 +2,8 @@
 
 An end-to-end generative deep learning pipeline engineered in PyTorch to reconstruct missing or sparsely sampled trace arrays in raw seismic data telemetry. The core framework leverages a convolutional U-Net denoiser paired with a cosine noise scheduling framework to execute high-fidelity spatial-temporal tensor interpolation.
 
-<p align="center">
-  <img src="your_image_file_name.png" alt="Seismic Trace Interpolation Waves Visualization" width="800">
-</p>
+<img width="669" height="407" alt="image" src="https://github.com/user-attachments/assets/e3d9a194-d4e1-402a-b8a1-091a285527e6" />
+
 
 ---
 

@@ -2,9 +2,14 @@
 
 An end-to-end generative deep learning pipeline engineered in PyTorch to reconstruct missing or sparsely sampled trace arrays in raw seismic data telemetry. The core framework leverages a convolutional U-Net denoiser paired with a cosine noise scheduling framework to execute high-fidelity spatial-temporal tensor interpolation.
 
+<p align="center">
+  <img src="your_image_file_name.png" alt="Seismic Trace Interpolation Waves Visualization" width="800">
+</p>
+
 ---
 
 ## 📊 Performance & Optimization Baselines
+...
 * **0.015 Stable Training Loss:** Achieved optimal convergence over a standard 100-epoch execution cycle.
 * **Multi-Step Backward Diffusion Pass:** Optimized computational routing to lower rendering and trace prediction latency during reconstruction.
 * **Resilient Checkpoint Management:** Integrated automated model weight caching to safeguard long-running optimization jobs against unexpected GPU compute preemptions.
